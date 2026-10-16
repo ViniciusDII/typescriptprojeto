@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "module":"ESNext",
+        "moduleResolution": "bundler",
+        "lib": ["ES2023","DOM","DOM.Iterable"],
+        "strict": true ,
+        "noEmit":true,
+        "skipLibCheck": false
+    },
+    "include": [
+        "main.ts",
+        "CIENCIADACOMPUTACAO-1-2-A-N-Quinta-Noturno/TaskFlow_Aula1_arquivos_iniciais/src"
+    ]
+}
